@@ -9,5 +9,6 @@ int main()
     scanf("%f", &numero2);
     media = (numero1 + numero2) / 2;
     printf ("media = %f",media);
+    return 0;
 }
 
